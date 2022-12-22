@@ -14,6 +14,9 @@ HISTORY:
 Tic-Tac-Toe is a long beloved classic pen and paper or board game for two players.
 Variations of Tic Tac Toe have been played since the Roman Empire and 3 in a row 
 games can be traced all the way back to ancient Egypt!
-Rules: 1.The game must be played by two players (in this program between HUMAN and COMPUTER). 2.Both players mark their cells with the letters "O" and "X". 3.The game ends when one of the players fills an entire row, column or diagonal with either the character ('O' or 'X') of that player. 4.If no one wins, the match is considered a draw.
+Rules: 1.The game must be played by two players (in this program between HUMAN and COMPUTER).
+2.Both players mark their cells with the letters "O" and "X". 
+3.The game ends when one of the players fills an entire row, column or diagonal with either the character ('O' or 'X') of that player. 
+4.If no one wins, the match is considered a draw.
 
 
