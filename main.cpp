@@ -1,5 +1,18 @@
 #include<iostream>
 
+/*
+
+
+
+warning!!!
+
+Only input number...
+Don't use other character 
+It will crash the game..
+
+
+*/
+
 using namespace std;
 
  char space[3][3] = {{'1', '2','3'}, {'4', '5', '6'}, {'7', '8', '9'}};
